@@ -1,9 +1,9 @@
 # Midex Messages
 
-## Prequisites
+## Prerequisites
 
--[Node.js](https://nodejs.org/en/)
--Any text/code editor that can handle the Node.js extenction (I suggest [VS Code](https://code.visualstudio.com/))
+- [Node.js](https://nodejs.org/en/)
+- Any text/code editor that can handle the Node.js extenction (I suggest [VS Code](https://code.visualstudio.com/))
 
 ### How does it work?
 
