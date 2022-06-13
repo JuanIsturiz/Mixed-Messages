@@ -42,7 +42,7 @@ const randomNumber = num => {
 //Grabs a random object from the authorAndQuotes array
 let randomAuthor = authorsAndQuotes[randomNumber(authorsAndQuotes.length)];
 
-//Grabas the index of the previous object
+//Grabs the index of the previous object
 let arrIndex = authorsAndQuotes.indexOf(randomAuthor);
 
 //Initializing the author and quote where the value is going to be saved
